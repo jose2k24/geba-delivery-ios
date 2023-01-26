@@ -27,7 +27,7 @@
 	<key>NSMicrophoneUsageDescription</key>
     <string>This app requires access to the camera to upload customer profile picture and voice.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>This app needs access to location to manage coverage of restaurant and when add a new address.</string>
+	<string>This app needs access to location to manage coverage of restaurant and when adding a new address.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>This app requires access to the gallery to upload customer profile picture.</string>
 	<key>UIBackgroundModes</key>
