@@ -1,0 +1,23 @@
+{
+    "name": "Geba Delivery",
+    "short_name": "Geba Delivery",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ff7700",
+    "theme_color": "#ff7700",
+    "description": "A Multi-vendor Food. Grocery, eCommerce, Pharmacy & Parcel Delivery service.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "395765532035",
+    "project_id": "geba-delivery",
+    "storage_bucket": "geba-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395765532035:android:0998b238dbd0948116a2b6",
+        "android_client_info": {
+          "package_name": "com.geba.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395765532035-a8iaaflhlm9iilbciu15hdh7jlhg4s79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geba.delivery",
+            "certificate_hash": "aaf3f6340f8a48ad212dd98f09f0f5c21c66c5b1"
+          }
+        },
+        {
+          "client_id": "395765532035-47k4isr3rfc7581v2a07fkvter0poegs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7i7aGh62u5QfHkQkLS4ncPh4JndQH3nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395765532035-47k4isr3rfc7581v2a07fkvter0poegs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395765532035-6l7j4au02dd7samj58mfncr5jo9k159b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geba.delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
