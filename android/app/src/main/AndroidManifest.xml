@@ -25,7 +25,7 @@
     </queries>
 
     <application
-        android:label="Geba Delivery"
+        android:label="Geba-Delivery"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
